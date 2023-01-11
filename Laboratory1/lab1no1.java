@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class lab1act1 {
+public class lab1no1 {
   public static void main(String[] args) {
     int sum = 0;
     try (BufferedReader br = new BufferedReader(new FileReader("data.txt"))) {
