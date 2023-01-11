@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class lab1num5 {
+public class lab1no5 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
